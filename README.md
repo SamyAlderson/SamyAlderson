@@ -131,24 +131,4 @@ A minimal **compiler** written in C. Lexer → parser → codegen. Small enough 
 | **Scientific Computing** | fourier-transform, wave-equation-solver, LatticeBoltzmannFluidDynamics, double_pendulum_analyzer |
 | **DevOps & Infra** | distributed-rate-limiter, docker-health-watchdog, sysmon, backup-go-tool |
 
----
 
-## GitHub Stats
-
-<div align="center">
-
-![Samy's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamyAlderson&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamyAlderson&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-*"The best way to understand something is to build it from scratch."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=SamyAlderson&color=blueviolet&style=for-the-badge)
-
-</div>
