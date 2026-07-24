@@ -1,6 +1,6 @@
 ## Hey, I'm Samy 👋
 
-Building things at the intersection of **low-level systems** and **web development**.
+Systems programmer & language enthusiast from France. I like building things close to the metal.
 
 ---
 
@@ -32,15 +32,4 @@ Write your HTML, CSS, and JavaScript as a single compiled source file. **webx** 
 
 ### 🛠 Skills
 
-`x86-64 Assembly` · `NASM` · `Python` · `Shell/Bash` · `Compiler Design` · `Lexer/Parser/AST` · `Code Generation` · `Linux Systems` · `GitHub Actions CI` · `Docker` · `FastAPI` · `JavaScript` · `HTML/CSS` · `Git`
-
----
-
-### 🤖 ia-pi
-
-Fleet of autonomous AI bots on GitHub:
-- **devbot** — creates new projects from scratch (1 project/hr, 120 topics)
-- **devbot2** — maintains vincilab-fr/webx
-- **devbot3** — contributes to open source (fork → fix → PR)
-
-All powered by Groq API, coordinated via Proxmox.
+`x86-64 Assembly` · `NASM` · `Python` · `Shell/Bash` · `Compiler Design` · `Lexer/Parser/AST` · `Code Generation` · `Linux Systems` · `GitHub Actions CI` · `Docker` · `JavaScript` · `HTML/CSS` · `Git`
