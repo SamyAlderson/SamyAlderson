@@ -4,8 +4,6 @@
 
 **Systems Programmer · Compiler Enthusiast · Open Source**
 
-[![GitHub](https://img.shields.io/badge/-SamyAlderson-181717?style=for-the-badge&logo=github)](https://github.com/SamyAlderson)
-[![ vincilab-fr](https://img.shields.io/badge/-vincilab-fr-6f42c1?style=for-the-badge)](https://github.com/vincilab-fr)
 
 *"I like building things close to the metal — from compilers to kernels."*
 
